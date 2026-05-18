@@ -35,9 +35,9 @@ Verifiable-Ciphertext-Image-Retrieval-Scheme/
 ```
 **项目声明**
 
-- 项目名称：可验证密文图像检索方案（VEIR）
-- 项目作者：请在此处填写作者姓名（例如：Your Name）
-- 作者单位：请在此处填写作者单位/实验室
+- 项目名称：可验证密文图像检索方案
+- 项目作者：huozhuolin
+- 作者单位：暨南大学
 - 开发语言：Python
 - 主要依赖：PyTorch、NumPy、SciPy、Pillow、scikit-learn、matplotlib
 - 核心技术：深度特征嵌入、位图索引、Paillier 同态加密、可验证检索协议
